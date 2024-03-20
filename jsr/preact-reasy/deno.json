@@ -1,9 +1,7 @@
 {
   "name": "@yahiro/preact-reasy",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "lock": false,
-  "imports": {
-    "preact": "npm:preact@10.19.2"
-  },
+  "importMap": "./import_map.json",
   "exports": "./mod.ts"
 }
