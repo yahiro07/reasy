@@ -1,6 +1,6 @@
 {
   "name": "@yahiro/react-reasy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "imports": {
     "react": "npm:react@18.2.0"
   },
