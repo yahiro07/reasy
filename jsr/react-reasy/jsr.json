@@ -1,0 +1,8 @@
+{
+  "name": "@yahiro/react-reasy",
+  "version": "0.1.4",
+  "imports": {
+    "react": "npm:react@18.2.0"
+  },
+  "exports": "./mod.ts"
+}
