@@ -17,7 +17,7 @@ Here, this code
 ```
 is replaced by using reasy like this
 ```tsx
-  import { useReasyState } from "https://deno.land/x/reasy@0.1.1/mod.ts";
+  import { useReasyState } from "https://deno.land/x/reasy/mod.ts";
 
   const [{ name, age, sex, avatar }, { setName, setAge, setSex, setAvatar }] =
     useReasyState({
